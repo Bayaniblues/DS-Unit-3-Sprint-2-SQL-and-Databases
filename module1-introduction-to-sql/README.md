@@ -85,7 +85,7 @@ may be helpful for putting together more complicated queries.
 
 Load the data (use `pandas`) from the provided file `buddymove_holidayiq.csv`
 (the [BuddyMove Data
-Set](https://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set)) - you should
+Set](https://archive.ics.uci.edu/m~~~~l/datasets/BuddyMove+Data+Set)) - you should
 have 249 rows, 7 columns, and no missing values. The data reflects the number of
 place reviews by given users across a variety of categories (sports, parks,
 malls, etc.).
