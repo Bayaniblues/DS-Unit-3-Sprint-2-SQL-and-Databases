@@ -91,6 +91,7 @@ def total_character_items():
     total = cursor.execute(query).fetchall()
     return str(len(total)) + " " + "total not Weapons"
 
+
 if __name__ == '__main__':
     print(total_chars())
     print(total_items())
